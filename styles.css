@@ -1,3 +1,8 @@
-body {
+ body {
     background-color: darkgrey;
+  }
+
+  p {
+    color: red;
+    text-align: center;
   }
