@@ -40,3 +40,6 @@ button {
 button:hover {
   background: rgba(65, 102, 25, 1)
 }
+#main_logo{
+  align-self: center;
+}
